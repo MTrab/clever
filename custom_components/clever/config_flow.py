@@ -77,7 +77,7 @@ class CleverEVConfigFlow(ConfigFlow, domain=DOMAIN):
         self._errors = {}
 
     async def async_step_user(self, user_input=None):
-        """Handle the initial Landroid Cloud step."""
+        """Handle the initial Clever integration step."""
         self._errors = {}
         if user_input is not None:
             if self.check_for_existing(user_input):
