@@ -4,9 +4,9 @@ from __future__ import annotations
 import logging
 
 import voluptuous as vol
-from homeassistant.core import HomeAssistant
+from homeassistant.config_entries import CONN_CLASS_CLOUD_POLL, ConfigFlow
 from homeassistant.const import CONF_ADDRESS
-from homeassistant.config_entries import ConfigFlow, CONN_CLASS_CLOUD_POLL
+from homeassistant.core import HomeAssistant
 from pyClever import Clever
 from pyClever.exceptions import UnknownLocation
 

@@ -1,7 +1,7 @@
 """Clever sensor definition."""
 from __future__ import annotations
-import logging
 
+import logging
 from typing import Any
 
 from homeassistant.components.sensor import SensorEntity
@@ -14,9 +14,8 @@ from homeassistant.helpers.update_coordinator import (
     DataUpdateCoordinator,
 )
 
-from .coordinator import CleverCoordinator
-
 from .const import DOMAIN, STATE_UNIT_OF_MEASUREMENT
+from .coordinator import CleverCoordinator
 
 _LOGGER = logging.getLogger(__name__)
 
