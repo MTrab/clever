@@ -1,0 +1,19 @@
+{
+    "config": {
+        "abort": {
+            "already_exists": "Denne lader er allerede tilføjet"
+        },
+        "error": {
+            "unknown_location": "Lokationen findes ikke",
+            "unknown": "Ukendt fejl"
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "address": "Ladestanderens adresse"
+                },
+                "title": "Monitorerer en Clever ladestander"
+            }
+        }
+    }
+}

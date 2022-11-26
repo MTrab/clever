@@ -1,0 +1,7 @@
+{
+  "name": "Landroid Cloud",
+  "render_readme": false,
+  "homeassistant": "2022.10.1",
+  "zip_release": true,
+  "filename": "landroid_cloud.zip"
+}

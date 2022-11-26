@@ -1,0 +1,21 @@
+{
+    "after_dependencies": [
+        "http"
+    ],
+    "codeowners": [
+        "@MTrab"
+    ],
+    "config_flow": true,
+    "documentation": "https://github.com/MTrab/clever/blob/master/README.md",
+    "domain": "clever",
+    "iot_class": "cloud_poll",
+    "issue_tracker": "https://github.com/MTrab/clever/issues",
+    "loggers": [
+        "pyclever"
+    ],
+    "name": "Clever",
+    "requirements": [
+        "pyHASSClever==0.0.0"
+    ],
+    "version": "0.1.0"
+}

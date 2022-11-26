@@ -1,0 +1,19 @@
+{
+    "config": {
+        "abort": {
+            "already_exists": "This chargepoint have already been configured for monitoring"
+        },
+        "error": {
+            "unknown_location": "The location could not be found",
+            "unknown": "Unexpected error"
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "address": "Address of the chargepoint"
+                },
+                "title": "Monitor a Clever chargepoint"
+            }
+        }
+    }
+}
