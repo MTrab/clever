@@ -8,7 +8,7 @@
     "config_flow": true,
     "documentation": "https://github.com/MTrab/clever/blob/master/README.md",
     "domain": "clever",
-    "iot_class": "cloud_poll",
+    "iot_class": "cloud_polling",
     "issue_tracker": "https://github.com/MTrab/clever/issues",
     "loggers": [
         "pyclever"
