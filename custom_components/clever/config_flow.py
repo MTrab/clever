@@ -7,8 +7,8 @@ import voluptuous as vol
 from homeassistant.config_entries import CONN_CLASS_CLOUD_POLL, ConfigFlow
 from homeassistant.const import CONF_ADDRESS
 from homeassistant.core import HomeAssistant
-from pyClever import Clever
-from pyClever.exceptions import UnknownLocation
+from pyHASSClever import Clever
+from pyHASSClever.exceptions import UnknownLocation
 
 from .const import DOMAIN
 

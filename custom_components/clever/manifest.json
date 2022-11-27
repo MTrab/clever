@@ -11,7 +11,7 @@
     "iot_class": "cloud_polling",
     "issue_tracker": "https://github.com/MTrab/clever/issues",
     "loggers": [
-        "pyclever"
+        "pyHASSClever"
     ],
     "name": "Clever",
     "requirements": [

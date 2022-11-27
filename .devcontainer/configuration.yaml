@@ -4,7 +4,7 @@ logger:
   default: warning
   logs:
     custom_components.clever: debug
-    pyclever: info
+    pyHASSClever: info
 
 
 # If you need to debug uncomment the line below (doc: https://www.home-assistant.io/integrations/debugpy/)
