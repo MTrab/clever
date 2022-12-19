@@ -1,4 +1,4 @@
-[![clever](https://img.shields.io/github/release/mtrab/clever/all.svg?style=plastic&label=Current%20release)](https://github.com/mtrab/clever) ![Maintenance](https://img.shields.io/maintenance/yes/2022.svg?style=plastic&label=Integration%20maintained) [![downloads](https://img.shields.io/github/downloads/mtrab/clever/total?style=plastic&label=Total%20downloads)](https://github.com/mtrab/clever)<br />
+[![clever](https://img.shields.io/github/release/mtrab/clever/all.svg?style=plastic&label=Current%20release)](https://github.com/mtrab/clever) [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg?style=plastic)](https://github.com/hacs/integration) ![Maintenance](https://img.shields.io/maintenance/yes/2022.svg?style=plastic&label=Integration%20maintained) [![downloads](https://img.shields.io/github/downloads/mtrab/clever/total?style=plastic&label=Total%20downloads)](https://github.com/mtrab/clever)<br />
 [![Buy me a coffee](https://img.shields.io/static/v1?label=Buy%20me%20a%20coffee&message=and%20say%20thanks&color=orange&logo=buymeacoffee&logoColor=white&style=plastic)](https://www.buymeacoffee.com/mtrab)
 
 
