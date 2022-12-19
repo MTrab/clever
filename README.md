@@ -8,12 +8,12 @@ Custom_integration for tracking [Clever chargepoints](https://ladekort.clever.dk
 
 ### Installation:
 
-#### ~~HACS~~
+#### HACS
 
-- ~~Ensure that HACS is installed.~~
-- ~~Search for and install the "Clever" integration.~~
-- ~~Restart Home Assistant.~~
-- ~~Go to Integrations and add the Clever integration~~
+- Ensure that HACS is installed.
+- Search for and install the "Clever" integration.
+- Restart Home Assistant.
+- Go to Integrations and add the Clever integration
 
 #### Manual installation
 
